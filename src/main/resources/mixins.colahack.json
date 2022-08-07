@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.cumhax.colahack.mixin.mixins.mixin",
+  "refmap": "mixins.colahack.refmap.json",
+  "mixins": [
+"NetworkManagerMixin",
+"ModelPlayerMixin",
+"MinecraftMixin",
+"GuiScreenMixin",
+"EntityRendererMixin",
+  ],
+  "client": [
+    "EntityPlayerSPMixin"
+  ]
+}

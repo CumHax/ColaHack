@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "ColaHack.eu",
+    "name": "ColaHack.eu",
+    "description": "ColaHack on tope",
+    "version": "b1",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Cumhax"
+    ],
+    "credits": ""
+    "logoFile": "acid.gif",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
